@@ -1,4 +1,4 @@
-<p align="center"><a href="https://youtu.be/ZSp-fWdEpMw" target="_blank"><img src="https://raw.githubusercontent.com/kthenurseone/telegram_online_bot/main/video.gif"></a></p>
+<p align="center"><a href="https://youtu.be/ZSp-fWdEpMw" target="_blank"><img src="https://raw.githubusercontent.com/kthenurseone-dev/telegram_online_bot/main/video.gif"></a></p>
 
 <p align="center">
     <a href="https://www.python.org/downloads/release/python-380/"><img src="https://img.shields.io/badge/python-3.8-blue.svg?style=plastic" alt="Python version"></a>
